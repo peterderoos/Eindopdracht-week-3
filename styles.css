@@ -1,0 +1,32 @@
+img {
+    height: 15px;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Deze CSS (.delete-button) is van Cindy gejat voor het aanmaken van de kleine button met background img */
+
+.delete-button {
+    width: 20px;
+    height: 20px;
+    background-image: url("trash-delete-icon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    border: none;
+    margin-left: 15px;
+}
+
+#task-container {
+    text-align: center;
+}
